@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  /* --foreground: #171717; */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* --background: #0a0a0a; */
+    --foreground: #ededed;
+  }
+}
+
+/* body {
+  color: var(--foreground);
+  background-color: var(--background);
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+  position: relative;
+} */
+
+
+body {
+  margin: 0;
+  height: 100vh;
+  /* background: url('https://img.freepik.com/free-vector/white-background-with-circular-lines-copy-space_23-2148822143.jpg?t=st=1737611663~exp=1737615263~hmac=d9a70e08e0288af199c74a81ab669165392eac44f4bcb5025a332087abe10ce4&w=1060') no-repeat center center fixed; */
+  /* background: url('https://img.freepik.com/free-vector/gradient-background-wave-minimalist-style_483537-3738.jpg?t=st=1737611759~exp=1737615359~hmac=ef0f7c15bc1e47669e7cd85a408c995a99b8bff2a2fe97e3249c4329e9fca4e0&w=1060') no-repeat center center fixed; */
+  background: url('https://img.freepik.com/free-vector/background-line-abstract-gradient-colorful-style_483537-2548.jpg?t=st=1737613531~exp=1737617131~hmac=8cf9c8b455e655415f19023941e1d025930902717606523630f515d8975d61f7&w=1060') no-repeat center center fixed;
+
+  background-size: cover;
+  position: relative;
+}
+
