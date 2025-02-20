@@ -483,7 +483,2574 @@
           "description": "Paid courses on front-end and full-stack development."
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Cloud Engineer",
+      "description": "A Cloud Engineer is responsible for designing, implementing, and maintaining cloud-based infrastructure and services. They work with cloud platforms like AWS, Azure, and Google Cloud to ensure scalability, security, and efficiency.",
+      "skills": [
+        "Cloud Computing",
+        "Infrastructure as Code (IaC)",
+        "Networking and Security",
+        "Containerization and Orchestration",
+        "CI/CD Pipelines",
+        "Monitoring and Logging",
+        "Database Management",
+        "Automation and Scripting (Python, Bash, PowerShell)",
+        "Cloud Cost Optimization",
+        "Disaster Recovery and Backup"
+      ],
+      "responsibilities": [
+        "Design and implement cloud-based solutions.",
+        "Manage cloud infrastructure and ensure security compliance.",
+        "Optimize cloud resources for cost and performance.",
+        "Develop automation scripts for deployments and monitoring.",
+        "Implement and manage CI/CD pipelines.",
+        "Troubleshoot and resolve cloud-related issues.",
+        "Monitor system performance and ensure high availability.",
+        "Collaborate with development and security teams.",
+        "Maintain documentation for cloud architectures and processes."
+      ],
+      "salaryRange": "$80,000 - $160,000 per year",
+      "examples": [
+        "Deploying a web application on AWS using EC2, S3, and RDS.",
+        "Setting up Kubernetes clusters for microservices deployment.",
+        "Implementing serverless architectures using AWS Lambda or Azure Functions.",
+        "Designing cloud security policies and identity management with IAM."
+      ],
+      "careerProgression": [
+        {
+          "level": "Entry-Level Cloud Engineer",
+          "responsibilities": [
+            "Assist in cloud infrastructure setup and maintenance.",
+            "Write scripts for automation and monitoring.",
+            "Troubleshoot cloud-related issues."
+          ],
+          "salaryRange": "$80,000 - $100,000 per year"
+        },
+        {
+          "level": "Mid-Level Cloud Engineer",
+          "responsibilities": [
+            "Design and implement cloud solutions.",
+            "Manage cloud security and compliance.",
+            "Optimize cloud performance and costs."
+          ],
+          "salaryRange": "$100,000 - $130,000 per year"
+        },
+        {
+          "level": "Senior Cloud Engineer",
+          "responsibilities": [
+            "Lead cloud infrastructure projects.",
+            "Develop cloud strategies and best practices.",
+            "Mentor junior cloud engineers."
+          ],
+          "salaryRange": "$130,000 - $160,000 per year"
+        },
+        {
+          "level": "Cloud Architect / Cloud Consultant",
+          "responsibilities": [
+            "Define enterprise cloud strategies.",
+            "Work with stakeholders to implement cloud solutions.",
+            "Optimize multi-cloud and hybrid cloud environments."
+          ],
+          "salaryRange": "$160,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect",
+          "provider": "Amazon Web Services (AWS)",
+          "description": "Validates expertise in designing scalable and secure cloud solutions on AWS."
+        },
+        {
+          "name": "Microsoft Certified: Azure Solutions Architect Expert",
+          "provider": "Microsoft Azure",
+          "description": "Certifies skills in designing cloud solutions on Microsoft Azure."
+        },
+        {
+          "name": "Google Professional Cloud Architect",
+          "provider": "Google Cloud",
+          "description": "Demonstrates expertise in cloud architecture on Google Cloud Platform."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "AWS",
+          "description": "Amazon Web Services for cloud computing."
+        },
+        { "name": "Azure", "description": "Microsoft's cloud platform." },
+        {
+          "name": "Google Cloud Platform (GCP)",
+          "description": "Google's cloud services."
+        },
+        {
+          "name": "Docker",
+          "description": "Containerization tool for application deployment."
+        },
+        {
+          "name": "Kubernetes",
+          "description": "Orchestration tool for managing containers."
+        }
+      ],
+      "futureScope": [
+        "Increasing adoption of multi-cloud and hybrid cloud strategies.",
+        "Growing demand for cloud security and compliance experts.",
+        "Advancements in serverless computing and edge computing.",
+        "AI and Machine Learning integration with cloud platforms."
+      ],
+      "challenges": [
+        "Managing cloud costs efficiently.",
+        "Ensuring security and compliance.",
+        "Keeping up with rapidly evolving cloud technologies.",
+        "Managing multi-cloud environments and interoperability."
+      ],
+      "commonInterviewQuestions": [
+        "What are the key differences between AWS, Azure, and Google Cloud?",
+        "How would you secure a cloud-based application?",
+        "Explain Infrastructure as Code (IaC) and its benefits.",
+        "How do you optimize cloud costs?",
+        "Describe how Kubernetes works.",
+        "What is the difference between containers and virtual machines?"
+      ],
+      "resourcesForLearning": [
+        "AWS Training and Certification: https://aws.amazon.com/training/",
+        "Microsoft Learn for Azure: https://learn.microsoft.com/en-us/training/",
+        "Google Cloud Training: https://cloud.google.com/training/",
+        "Kubernetes Documentation: https://kubernetes.io/docs/",
+        "Docker Docs: https://docs.docker.com/"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Data Scientist",
+      "description": "A Data Scientist analyzes complex data sets to uncover insights, build predictive models, and support business decisions using machine learning, statistical analysis, and data visualization techniques.",
+      "skills": [
+        "Python / R Programming",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Big Data Technologies (Hadoop, Spark)",
+        "Deep Learning",
+        "SQL and NoSQL Databases",
+        "Feature Engineering",
+        "Data Cleaning and Preprocessing",
+        "Cloud Computing (AWS, GCP, Azure)"
+      ],
+      "responsibilities": [
+        "Collect, clean, and analyze large datasets.",
+        "Develop predictive models and machine learning algorithms.",
+        "Visualize data insights using tools like Tableau or Matplotlib.",
+        "Work with cross-functional teams to solve business problems.",
+        "Optimize data processing workflows for scalability.",
+        "Deploy machine learning models into production.",
+        "Ensure data quality and governance.",
+        "Stay updated with the latest advancements in AI and data science."
+      ],
+      "salaryRange": "$90,000 - $180,000 per year",
+      "examples": [
+        "Building a recommendation system for e-commerce platforms.",
+        "Developing fraud detection algorithms for banking.",
+        "Analyzing customer churn for telecom companies.",
+        "Creating predictive maintenance models for manufacturing."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Data Scientist",
+          "responsibilities": [
+            "Assist in data collection and preprocessing.",
+            "Support senior team members in building models.",
+            "Perform exploratory data analysis."
+          ],
+          "salaryRange": "$90,000 - $110,000 per year"
+        },
+        {
+          "level": "Mid-Level Data Scientist",
+          "responsibilities": [
+            "Develop machine learning models and evaluate performance.",
+            "Work with stakeholders to define data-driven strategies.",
+            "Optimize algorithms for better accuracy and efficiency."
+          ],
+          "salaryRange": "$110,000 - $140,000 per year"
+        },
+        {
+          "level": "Senior Data Scientist",
+          "responsibilities": [
+            "Lead complex data science projects.",
+            "Mentor junior data scientists.",
+            "Contribute to research and innovation in AI and machine learning."
+          ],
+          "salaryRange": "$140,000 - $180,000 per year"
+        },
+        {
+          "level": "Chief Data Scientist / AI Researcher",
+          "responsibilities": [
+            "Define company-wide data strategies.",
+            "Lead AI and machine learning innovation.",
+            "Collaborate with executives to drive data-driven decisions."
+          ],
+          "salaryRange": "$180,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Data Scientist (CDS)",
+          "provider": "Data Science Council of America (DASCA)",
+          "description": "Validates expertise in data science and analytics."
+        },
+        {
+          "name": "Google Data Analytics Certificate",
+          "provider": "Google",
+          "description": "Covers data analysis techniques, SQL, and visualization."
+        },
+        {
+          "name": "IBM Data Science Professional Certificate",
+          "provider": "IBM",
+          "description": "Teaches data science methodologies and machine learning."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Python",
+          "description": "Programming language for data analysis and machine learning."
+        },
+        {
+          "name": "R",
+          "description": "Statistical computing and graphics programming language."
+        },
+        {
+          "name": "TensorFlow",
+          "description": "Open-source library for machine learning and deep learning."
+        },
+        {
+          "name": "Tableau",
+          "description": "Data visualization and business intelligence tool."
+        },
+        {
+          "name": "Apache Spark",
+          "description": "Big data processing framework."
+        }
+      ],
+      "futureScope": [
+        "Increased adoption of AI-driven automation in businesses.",
+        "Expansion of deep learning and reinforcement learning applications.",
+        "Greater integration of data science in healthcare and finance.",
+        "Growth in ethical AI and responsible machine learning."
+      ],
+      "challenges": [
+        "Ensuring data privacy and security.",
+        "Dealing with biased and incomplete data.",
+        "Interpreting and explaining complex machine learning models.",
+        "Keeping up with rapidly evolving technologies."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between supervised and unsupervised learning?",
+        "How do you handle missing data in a dataset?",
+        "Explain the concept of overfitting and how to prevent it.",
+        "What are the different types of clustering algorithms?",
+        "How would you evaluate the performance of a machine learning model?"
+      ],
+      "resourcesForLearning": [
+        "Coursera - Data Science Specialization: https://www.coursera.org/specializations/jhu-data-science",
+        "Kaggle - Data Science Courses: https://www.kaggle.com/learn",
+        "Fast.ai - Deep Learning Courses: https://www.fast.ai/",
+        "Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course",
+        "Towards Data Science Blog: https://towardsdatascience.com/"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Data Scientist",
+      "description": "A Data Scientist analyzes complex data sets to uncover insights, build predictive models, and support business decisions using machine learning, statistical analysis, and data visualization techniques.",
+      "skills": [
+        "Python / R Programming",
+        "Machine Learning",
+        "Data Visualization",
+        "Statistical Analysis",
+        "Big Data Technologies (Hadoop, Spark)",
+        "Deep Learning",
+        "SQL and NoSQL Databases",
+        "Feature Engineering",
+        "Data Cleaning and Preprocessing",
+        "Cloud Computing (AWS, GCP, Azure)"
+      ],
+      "responsibilities": [
+        "Collect, clean, and analyze large datasets.",
+        "Develop predictive models and machine learning algorithms.",
+        "Visualize data insights using tools like Tableau or Matplotlib.",
+        "Work with cross-functional teams to solve business problems.",
+        "Optimize data processing workflows for scalability.",
+        "Deploy machine learning models into production.",
+        "Ensure data quality and governance.",
+        "Stay updated with the latest advancements in AI and data science."
+      ],
+      "salaryRange": "$90,000 - $180,000 per year",
+      "examples": [
+        "Building a recommendation system for e-commerce platforms.",
+        "Developing fraud detection algorithms for banking.",
+        "Analyzing customer churn for telecom companies.",
+        "Creating predictive maintenance models for manufacturing."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Data Scientist",
+          "responsibilities": [
+            "Assist in data collection and preprocessing.",
+            "Support senior team members in building models.",
+            "Perform exploratory data analysis."
+          ],
+          "salaryRange": "$90,000 - $110,000 per year"
+        },
+        {
+          "level": "Mid-Level Data Scientist",
+          "responsibilities": [
+            "Develop machine learning models and evaluate performance.",
+            "Work with stakeholders to define data-driven strategies.",
+            "Optimize algorithms for better accuracy and efficiency."
+          ],
+          "salaryRange": "$110,000 - $140,000 per year"
+        },
+        {
+          "level": "Senior Data Scientist",
+          "responsibilities": [
+            "Lead complex data science projects.",
+            "Mentor junior data scientists.",
+            "Contribute to research and innovation in AI and machine learning."
+          ],
+          "salaryRange": "$140,000 - $180,000 per year"
+        },
+        {
+          "level": "Chief Data Scientist / AI Researcher",
+          "responsibilities": [
+            "Define company-wide data strategies.",
+            "Lead AI and machine learning innovation.",
+            "Collaborate with executives to drive data-driven decisions."
+          ],
+          "salaryRange": "$180,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Data Scientist (CDS)",
+          "provider": "Data Science Council of America (DASCA)",
+          "description": "Validates expertise in data science and analytics."
+        },
+        {
+          "name": "Google Data Analytics Certificate",
+          "provider": "Google",
+          "description": "Covers data analysis techniques, SQL, and visualization."
+        },
+        {
+          "name": "IBM Data Science Professional Certificate",
+          "provider": "IBM",
+          "description": "Teaches data science methodologies and machine learning."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Python",
+          "description": "Programming language for data analysis and machine learning."
+        },
+        {
+          "name": "R",
+          "description": "Statistical computing and graphics programming language."
+        },
+        {
+          "name": "TensorFlow",
+          "description": "Open-source library for machine learning and deep learning."
+        },
+        {
+          "name": "Tableau",
+          "description": "Data visualization and business intelligence tool."
+        },
+        {
+          "name": "Apache Spark",
+          "description": "Big data processing framework."
+        }
+      ],
+      "futureScope": [
+        "Increased adoption of AI-driven automation in businesses.",
+        "Expansion of deep learning and reinforcement learning applications.",
+        "Greater integration of data science in healthcare and finance.",
+        "Growth in ethical AI and responsible machine learning."
+      ],
+      "challenges": [
+        "Ensuring data privacy and security.",
+        "Dealing with biased and incomplete data.",
+        "Interpreting and explaining complex machine learning models.",
+        "Keeping up with rapidly evolving technologies."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between supervised and unsupervised learning?",
+        "How do you handle missing data in a dataset?",
+        "Explain the concept of overfitting and how to prevent it.",
+        "What are the different types of clustering algorithms?",
+        "How would you evaluate the performance of a machine learning model?"
+      ],
+      "resourcesForLearning": [
+        "Coursera - Data Science Specialization: https://www.coursera.org/specializations/jhu-data-science",
+        "Kaggle - Data Science Courses: https://www.kaggle.com/learn",
+        "Fast.ai - Deep Learning Courses: https://www.fast.ai/",
+        "Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course",
+        "Towards Data Science Blog: https://towardsdatascience.com/"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Cybersecurity Analyst",
+      "description": "A Cybersecurity Analyst is responsible for protecting an organization's computer systems and networks from cyber threats, conducting security assessments, and implementing security measures to prevent data breaches.",
+      "skills": [
+        "Network Security",
+        "Threat Analysis",
+        "Incident Response",
+        "Firewall and IDS/IPS Configuration",
+        "Cryptography",
+        "Risk Assessment",
+        "Penetration Testing",
+        "Security Compliance (ISO 27001, NIST, GDPR)",
+        "SIEM (Security Information and Event Management)",
+        "Cloud Security"
+      ],
+      "responsibilities": [
+        "Monitor networks for security breaches and investigate incidents.",
+        "Implement security measures and best practices.",
+        "Conduct penetration testing and vulnerability assessments.",
+        "Develop security policies and incident response plans.",
+        "Stay updated on the latest cyber threats and security trends.",
+        "Work with IT teams to strengthen system security.",
+        "Ensure compliance with industry regulations.",
+        "Educate employees on cybersecurity awareness."
+      ],
+      "salaryRange": "$75,000 - $150,000 per year",
+      "examples": [
+        "Preventing phishing attacks in a corporate network.",
+        "Investigating a data breach and implementing corrective actions.",
+        "Conducting penetration testing to identify vulnerabilities.",
+        "Deploying multi-factor authentication for improved security."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Cybersecurity Analyst",
+          "responsibilities": [
+            "Assist in monitoring security alerts.",
+            "Support senior analysts in incident response.",
+            "Perform basic security assessments."
+          ],
+          "salaryRange": "$75,000 - $90,000 per year"
+        },
+        {
+          "level": "Mid-Level Cybersecurity Analyst",
+          "responsibilities": [
+            "Conduct penetration testing and risk assessments.",
+            "Develop security policies and compliance reports.",
+            "Respond to and investigate security incidents."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Senior Cybersecurity Analyst",
+          "responsibilities": [
+            "Lead security audits and penetration tests.",
+            "Develop and implement advanced security strategies.",
+            "Mentor junior analysts and oversee security operations."
+          ],
+          "salaryRange": "$120,000 - $150,000 per year"
+        },
+        {
+          "level": "Chief Information Security Officer (CISO)",
+          "responsibilities": [
+            "Define company-wide cybersecurity strategies.",
+            "Lead security teams and oversee compliance initiatives.",
+            "Ensure enterprise-wide protection against cyber threats."
+          ],
+          "salaryRange": "$150,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Information Systems Security Professional (CISSP)",
+          "provider": "(ISC)²",
+          "description": "Covers security and risk management, asset security, and security engineering."
+        },
+        {
+          "name": "Certified Ethical Hacker (CEH)",
+          "provider": "EC-Council",
+          "description": "Focuses on ethical hacking techniques and penetration testing."
+        },
+        {
+          "name": "CompTIA Security+",
+          "provider": "CompTIA",
+          "description": "Entry-level certification covering essential cybersecurity concepts."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Wireshark",
+          "description": "Network protocol analyzer for monitoring traffic."
+        },
+        {
+          "name": "Metasploit",
+          "description": "Penetration testing framework for finding vulnerabilities."
+        },
+        {
+          "name": "Splunk",
+          "description": "SIEM tool for analyzing security logs and detecting threats."
+        },
+        {
+          "name": "Nmap",
+          "description": "Network scanning tool used for discovering hosts and services."
+        },
+        {
+          "name": "Burp Suite",
+          "description": "Web application security testing tool."
+        }
+      ],
+      "futureScope": [
+        "Growth in cloud security and AI-driven threat detection.",
+        "Increased demand for zero-trust architecture.",
+        "Expansion of cybersecurity roles due to rising cyber threats.",
+        "Development of quantum-resistant encryption methods."
+      ],
+      "challenges": [
+        "Keeping up with evolving cyber threats.",
+        "Balancing security with user convenience.",
+        "Addressing the shortage of skilled cybersecurity professionals.",
+        "Ensuring compliance with international security standards."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between symmetric and asymmetric encryption?",
+        "How do you secure a network against DDoS attacks?",
+        "Explain the concept of a zero-trust security model.",
+        "What steps would you take in an incident response situation?",
+        "How do you detect and prevent phishing attacks?"
+      ],
+      "resourcesForLearning": [
+        "Cybrary - Cybersecurity Training: https://www.cybrary.it/",
+        "SANS Cyber Aces Online: https://www.cyberaces.org/",
+        "OWASP (Open Web Application Security Project): https://owasp.org/",
+        "CompTIA Security+ Study Guide: https://www.comptia.org/certifications/security",
+        "Kali Linux Documentation: https://www.kali.org/docs/"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "AI/ML Engineer",
+      "description": "An AI/ML Engineer designs, builds, and deploys artificial intelligence and machine learning models to solve real-world problems using data-driven approaches.",
+      "skills": [
+        "Python / R Programming",
+        "Machine Learning Algorithms",
+        "Deep Learning & Neural Networks",
+        "Data Preprocessing & Feature Engineering",
+        "Big Data Technologies (Hadoop, Spark)",
+        "Model Deployment & MLOps",
+        "Cloud Computing (AWS, GCP, Azure)",
+        "Natural Language Processing (NLP)",
+        "Computer Vision",
+        "Reinforcement Learning"
+      ],
+      "responsibilities": [
+        "Develop and train machine learning models.",
+        "Optimize AI algorithms for performance and scalability.",
+        "Deploy ML models into production environments.",
+        "Analyze large datasets to extract meaningful insights.",
+        "Work with software engineers to integrate AI solutions into applications.",
+        "Ensure model interpretability and fairness.",
+        "Stay updated with advancements in AI and deep learning.",
+        "Collaborate with data scientists and domain experts."
+      ],
+      "salaryRange": "$100,000 - $200,000 per year",
+      "examples": [
+        "Developing AI-driven chatbots for customer service.",
+        "Building recommendation systems for streaming services.",
+        "Creating self-learning trading algorithms for finance.",
+        "Improving medical imaging with AI for healthcare."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior AI/ML Engineer",
+          "responsibilities": [
+            "Assist in training machine learning models.",
+            "Work on data preprocessing and feature extraction.",
+            "Support senior engineers in AI research."
+          ],
+          "salaryRange": "$100,000 - $120,000 per year"
+        },
+        {
+          "level": "Mid-Level AI/ML Engineer",
+          "responsibilities": [
+            "Develop and optimize machine learning models.",
+            "Work on real-world AI applications.",
+            "Improve model accuracy and efficiency."
+          ],
+          "salaryRange": "$120,000 - $150,000 per year"
+        },
+        {
+          "level": "Senior AI/ML Engineer",
+          "responsibilities": [
+            "Lead AI-driven projects and initiatives.",
+            "Mentor junior engineers.",
+            "Research and implement cutting-edge AI techniques."
+          ],
+          "salaryRange": "$150,000 - $200,000 per year"
+        },
+        {
+          "level": "AI Research Scientist / Head of AI",
+          "responsibilities": [
+            "Define AI strategies for organizations.",
+            "Lead R&D in artificial intelligence.",
+            "Collaborate with top researchers to push AI boundaries."
+          ],
+          "salaryRange": "$200,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "TensorFlow Developer Certificate",
+          "provider": "Google",
+          "description": "Validates expertise in deep learning with TensorFlow."
+        },
+        {
+          "name": "AWS Certified Machine Learning – Specialty",
+          "provider": "Amazon AWS",
+          "description": "Demonstrates proficiency in deploying ML models on AWS."
+        },
+        {
+          "name": "Microsoft Certified: Azure AI Engineer Associate",
+          "provider": "Microsoft",
+          "description": "Covers AI implementation and deployment on Azure."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "TensorFlow",
+          "description": "Open-source library for deep learning."
+        },
+        {
+          "name": "PyTorch",
+          "description": "Deep learning framework for AI research and production."
+        },
+        {
+          "name": "Scikit-learn",
+          "description": "Machine learning library for Python."
+        },
+        { "name": "Keras", "description": "High-level neural network API." },
+        {
+          "name": "Apache Spark MLlib",
+          "description": "Scalable machine learning library for big data."
+        }
+      ],
+      "futureScope": [
+        "Advancements in generative AI and deep learning.",
+        "Wider adoption of AI in healthcare, finance, and robotics.",
+        "Increased focus on ethical AI and model explainability.",
+        "Development of more efficient AI hardware for edge computing."
+      ],
+      "challenges": [
+        "Ensuring AI models are unbiased and fair.",
+        "Dealing with large-scale data processing issues.",
+        "Managing computational costs of training deep learning models.",
+        "Addressing ethical concerns related to AI applications."
+      ],
+      "commonInterviewQuestions": [
+        "Explain the difference between supervised, unsupervised, and reinforcement learning.",
+        "How do you prevent overfitting in a machine learning model?",
+        "What are the key differences between TensorFlow and PyTorch?",
+        "Describe a real-world application of reinforcement learning.",
+        "How would you deploy a machine learning model at scale?"
+      ],
+      "resourcesForLearning": [
+        "Coursera - Deep Learning Specialization: https://www.coursera.org/specializations/deep-learning",
+        "Fast.ai - Practical Deep Learning: https://www.fast.ai/",
+        "Google Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course",
+        "Stanford CS231n - Convolutional Neural Networks: http://cs231n.stanford.edu/",
+        "Kaggle - Machine Learning Courses: https://www.kaggle.com/learn/machine-learning"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "QA Engineer",
+      "description": "A QA (Quality Assurance) Engineer ensures software quality by designing, executing, and automating tests to detect and resolve defects before deployment. They collaborate with development teams to improve processes and enhance user experience.",
+      "skills": [
+        "Manual Testing",
+        "Automated Testing (Selenium, Cypress, Playwright)",
+        "Test Case Design and Execution",
+        "Performance Testing (JMeter, LoadRunner)",
+        "API Testing (Postman, RestAssured)",
+        "Bug Tracking and Reporting (JIRA, Bugzilla)",
+        "CI/CD Integration",
+        "Security Testing",
+        "Agile and Scrum Methodologies",
+        "Programming (Python, Java, JavaScript) for Test Automation"
+      ],
+      "responsibilities": [
+        "Design and execute test cases based on software requirements.",
+        "Develop automated test scripts to improve efficiency and accuracy.",
+        "Perform functional, regression, performance, and security testing.",
+        "Collaborate with developers to identify and resolve defects.",
+        "Ensure compliance with software quality standards.",
+        "Analyze test results and document issues.",
+        "Participate in Agile/Scrum meetings and contribute to process improvements.",
+        "Work with DevOps teams to integrate testing into CI/CD pipelines."
+      ],
+      "salaryRange": "$70,000 - $140,000 per year",
+      "examples": [
+        "Testing a banking application for security vulnerabilities.",
+        "Automating regression tests for an e-commerce website.",
+        "Ensuring API stability and performance for a SaaS platform.",
+        "Validating mobile applications for cross-device compatibility."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior QA Engineer",
+          "responsibilities": [
+            "Write and execute test cases.",
+            "Assist in manual testing and defect reporting.",
+            "Work with development teams to understand software requirements."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Mid-Level QA Engineer",
+          "responsibilities": [
+            "Develop and maintain automated test scripts.",
+            "Perform in-depth functional and regression testing.",
+            "Participate in Agile development processes."
+          ],
+          "salaryRange": "$90,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior QA Engineer",
+          "responsibilities": [
+            "Lead testing initiatives and automation efforts.",
+            "Mentor junior QA engineers.",
+            "Define and implement testing strategies for large-scale projects."
+          ],
+          "salaryRange": "$110,000 - $130,000 per year"
+        },
+        {
+          "level": "QA Lead / QA Manager",
+          "responsibilities": [
+            "Oversee QA teams and testing processes.",
+            "Define quality standards and best practices.",
+            "Collaborate with stakeholders to align testing with business goals."
+          ],
+          "salaryRange": "$130,000 - $140,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "ISTQB Certified Tester",
+          "provider": "ISTQB",
+          "description": "Validates knowledge of software testing principles and best practices."
+        },
+        {
+          "name": "Certified Selenium Automation Tester",
+          "provider": "Edureka, Coursera",
+          "description": "Demonstrates expertise in Selenium-based test automation."
+        },
+        {
+          "name": "Certified Agile Tester (CAT)",
+          "provider": "iSQI",
+          "description": "Certifies skills in Agile testing methodologies and frameworks."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Selenium",
+          "description": "Open-source framework for web application automation testing."
+        },
+        {
+          "name": "JMeter",
+          "description": "Tool for load and performance testing of applications."
+        },
+        {
+          "name": "Postman",
+          "description": "Popular tool for API testing and automation."
+        },
+        {
+          "name": "JIRA",
+          "description": "Bug tracking and project management tool."
+        },
+        {
+          "name": "Cypress",
+          "description": "Modern automation framework for front-end testing."
+        }
+      ],
+      "futureScope": [
+        "Growth in AI-driven testing automation.",
+        "Increased adoption of DevOps and CI/CD in QA processes.",
+        "Advancements in security and performance testing.",
+        "More demand for test automation engineers with programming skills."
+      ],
+      "challenges": [
+        "Keeping up with fast-changing technologies and tools.",
+        "Ensuring thorough test coverage for complex applications.",
+        "Managing test automation in dynamic development environments.",
+        "Handling compatibility testing across multiple devices and platforms."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between functional and non-functional testing?",
+        "How would you design a test case for a login page?",
+        "Explain the concept of test automation and its advantages.",
+        "What are the key challenges in performance testing?",
+        "How do you handle a situation where a developer disagrees with your reported bug?"
+      ],
+      "resourcesForLearning": [
+        "ISTQB Foundation Course: https://www.istqb.org/",
+        "Selenium Automation Course on Udemy: https://www.udemy.com/course/selenium-webdriver/",
+        "QA Engineer Guide on TestGuild: https://www.testguild.com/",
+        "Postman API Testing Guide: https://learning.postman.com/",
+        "Performance Testing with JMeter: https://jmeter.apache.org/"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "DevOps Engineer",
+      "description": "A DevOps Engineer is responsible for automating and streamlining development operations, ensuring seamless integration between development and IT operations. They implement CI/CD pipelines, manage cloud infrastructure, and optimize deployment processes for efficiency and scalability.",
+      "skills": [
+        "CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)",
+        "Infrastructure as Code (Terraform, Ansible, CloudFormation)",
+        "Cloud Computing (AWS, Azure, GCP)",
+        "Containerization and Orchestration (Docker, Kubernetes)",
+        "Monitoring and Logging (Prometheus, Grafana, ELK Stack)",
+        "Scripting and Automation (Bash, Python, PowerShell)",
+        "Networking and Security Best Practices",
+        "Agile and DevOps Methodologies"
+      ],
+      "responsibilities": [
+        "Design, implement, and maintain CI/CD pipelines.",
+        "Automate infrastructure provisioning and management.",
+        "Monitor system performance and ensure high availability.",
+        "Collaborate with developers to streamline deployments.",
+        "Manage cloud environments and optimize resources.",
+        "Implement security best practices in DevOps workflows.",
+        "Troubleshoot system and deployment issues.",
+        "Work with cross-functional teams to improve development processes."
+      ],
+      "salaryRange": "$90,000 - $160,000 per year",
+      "examples": [
+        "Building a CI/CD pipeline for a microservices architecture.",
+        "Automating server provisioning using Terraform and Ansible.",
+        "Deploying containerized applications using Kubernetes.",
+        "Setting up monitoring dashboards with Prometheus and Grafana."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior DevOps Engineer",
+          "responsibilities": [
+            "Assist in maintaining CI/CD pipelines.",
+            "Write automation scripts for basic tasks.",
+            "Monitor application and infrastructure health."
+          ],
+          "salaryRange": "$90,000 - $110,000 per year"
+        },
+        {
+          "level": "Mid-Level DevOps Engineer",
+          "responsibilities": [
+            "Develop and optimize automation processes.",
+            "Implement security policies in cloud infrastructure.",
+            "Manage container orchestration platforms like Kubernetes."
+          ],
+          "salaryRange": "$110,000 - $130,000 per year"
+        },
+        {
+          "level": "Senior DevOps Engineer",
+          "responsibilities": [
+            "Architect scalable and secure cloud infrastructure.",
+            "Lead DevOps best practices and initiatives.",
+            "Mentor junior DevOps engineers."
+          ],
+          "salaryRange": "$130,000 - $150,000 per year"
+        },
+        {
+          "level": "DevOps Lead / DevOps Manager",
+          "responsibilities": [
+            "Oversee DevOps strategy and implementation.",
+            "Define company-wide DevOps policies and best practices.",
+            "Collaborate with stakeholders to align DevOps with business goals."
+          ],
+          "salaryRange": "$150,000 - $160,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified DevOps Engineer - Professional",
+          "provider": "AWS",
+          "description": "Validates expertise in operating and managing distributed applications on AWS."
+        },
+        {
+          "name": "Certified Kubernetes Administrator (CKA)",
+          "provider": "Linux Foundation",
+          "description": "Demonstrates proficiency in managing Kubernetes clusters."
+        },
+        {
+          "name": "HashiCorp Certified: Terraform Associate",
+          "provider": "HashiCorp",
+          "description": "Certifies knowledge of infrastructure automation using Terraform."
+        }
+      ],
+      "keyTools": [
+        { "name": "Jenkins", "description": "Popular CI/CD automation tool." },
+        {
+          "name": "Docker",
+          "description": "Containerization platform for application deployment."
+        },
+        {
+          "name": "Kubernetes",
+          "description": "Orchestration tool for managing containerized workloads."
+        },
+        {
+          "name": "Terraform",
+          "description": "Infrastructure as Code tool for provisioning cloud resources."
+        },
+        {
+          "name": "Ansible",
+          "description": "Configuration management and automation tool."
+        }
+      ],
+      "futureScope": [
+        "Growth in AI-powered automation for DevOps.",
+        "Increased focus on security and compliance in DevOps workflows.",
+        "Adoption of GitOps for continuous deployment.",
+        "Expansion of serverless computing and infrastructure automation."
+      ],
+      "challenges": [
+        "Managing complex cloud infrastructure at scale.",
+        "Ensuring security in highly automated environments.",
+        "Optimizing cost efficiency for cloud resources.",
+        "Keeping up with rapidly evolving DevOps tools and methodologies."
+      ],
+      "commonInterviewQuestions": [
+        "What is Infrastructure as Code (IaC), and why is it important?",
+        "Explain the differences between Docker and Kubernetes.",
+        "How would you design a scalable CI/CD pipeline?",
+        "What are the key DevOps metrics you would track?",
+        "How do you ensure security in a DevOps environment?"
+      ],
+      "resourcesForLearning": [
+        "AWS DevOps Learning Path: https://aws.amazon.com/training/devops/",
+        "Kubernetes Official Documentation: https://kubernetes.io/docs/",
+        "Terraform Learning Guide: https://learn.hashicorp.com/terraform",
+        "Docker and Kubernetes Course on Udemy: https://www.udemy.com/course/docker-and-kubernetes/",
+        "DevOps Best Practices Guide: https://www.devopsguide.com/"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Technical Support Engineer",
+      "description": "A Technical Support Engineer provides assistance to customers and internal teams by troubleshooting technical issues, resolving product-related problems, and ensuring customer satisfaction through effective problem-solving and communication.",
+      "skills": [
+        "Troubleshooting and problem-solving",
+        "Strong communication skills",
+        "Networking fundamentals",
+        "Operating systems (Windows, Linux, macOS)",
+        "Customer service and support",
+        "Scripting and automation (Python, Bash, PowerShell)",
+        "Cloud platforms (AWS, Azure, GCP)",
+        "IT security and compliance"
+      ],
+      "responsibilities": [
+        "Provide technical support via phone, email, and chat.",
+        "Diagnose and troubleshoot software and hardware issues.",
+        "Document customer issues and resolutions in a ticketing system.",
+        "Collaborate with engineering teams to resolve complex issues.",
+        "Assist in software installation, configuration, and maintenance.",
+        "Conduct root cause analysis to prevent recurring issues.",
+        "Educate customers on product functionality and best practices.",
+        "Ensure high levels of customer satisfaction and timely issue resolution."
+      ],
+      "salaryRange": "$50,000 - $100,000 per year",
+      "examples": [
+        "Troubleshooting a network connectivity issue for a client.",
+        "Resolving software crashes by analyzing system logs.",
+        "Providing step-by-step guidance on configuring cloud services.",
+        "Helping customers recover from cybersecurity threats."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Technical Support Engineer",
+          "responsibilities": [
+            "Respond to customer inquiries and provide basic troubleshooting.",
+            "Document common issues and solutions.",
+            "Escalate complex issues to senior engineers."
+          ],
+          "salaryRange": "$50,000 - $65,000 per year"
+        },
+        {
+          "level": "Mid-Level Technical Support Engineer",
+          "responsibilities": [
+            "Handle advanced troubleshooting and problem resolution.",
+            "Collaborate with product and development teams on issue fixes.",
+            "Create technical documentation and knowledge base articles."
+          ],
+          "salaryRange": "$65,000 - $80,000 per year"
+        },
+        {
+          "level": "Senior Technical Support Engineer",
+          "responsibilities": [
+            "Lead technical support teams and mentor junior engineers.",
+            "Analyze trends in support requests to improve product stability.",
+            "Develop automation scripts to streamline troubleshooting."
+          ],
+          "salaryRange": "$80,000 - $100,000 per year"
+        },
+        {
+          "level": "Technical Support Manager / Director",
+          "responsibilities": [
+            "Oversee technical support strategy and operations.",
+            "Develop support policies and customer service best practices.",
+            "Work closely with stakeholders to enhance product reliability."
+          ],
+          "salaryRange": "$100,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "CompTIA A+",
+          "provider": "CompTIA",
+          "description": "Covers foundational IT and technical support skills."
+        },
+        {
+          "name": "Microsoft Certified: Azure Fundamentals",
+          "provider": "Microsoft",
+          "description": "Provides knowledge of cloud computing and Azure services."
+        },
+        {
+          "name": "AWS Certified Cloud Practitioner",
+          "provider": "AWS",
+          "description": "Demonstrates cloud computing and AWS service knowledge."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Zendesk",
+          "description": "Customer service and support ticketing tool."
+        },
+        {
+          "name": "ServiceNow",
+          "description": "IT service management and workflow automation platform."
+        },
+        {
+          "name": "Wireshark",
+          "description": "Network analysis and troubleshooting tool."
+        },
+        {
+          "name": "Splunk",
+          "description": "Log management and analysis tool."
+        },
+        {
+          "name": "JIRA",
+          "description": "Issue tracking and project management software."
+        }
+      ],
+      "futureScope": [
+        "Growing demand for cloud-based technical support services.",
+        "Increased focus on AI-driven chatbots for support automation.",
+        "Greater emphasis on cybersecurity expertise in technical support.",
+        "Expanding role of remote and global support teams."
+      ],
+      "challenges": [
+        "Handling high volumes of customer support tickets.",
+        "Keeping up with rapidly evolving technologies.",
+        "Balancing customer satisfaction with technical feasibility.",
+        "Ensuring security compliance in support processes."
+      ],
+      "commonInterviewQuestions": [
+        "How do you troubleshoot a network connectivity issue?",
+        "Describe a time you resolved a challenging technical problem.",
+        "What steps do you take when handling a frustrated customer?",
+        "Explain how you would document and escalate an unresolved issue.",
+        "What tools and methods do you use to diagnose software bugs?"
+      ],
+      "resourcesForLearning": [
+        "CompTIA A+ Certification Guide: https://www.comptia.org/certifications/a",
+        "Microsoft Learn for Azure: https://learn.microsoft.com/en-us/training/",
+        "AWS Cloud Practitioner Essentials: https://aws.amazon.com/training/cloud-practitioner/",
+        "Wireshark Network Analysis Book: https://www.wireshark.org/docs/wsug_html/",
+        "Technical Support Handbook by O'Reilly: https://www.oreilly.com/"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "UI/UX Designer",
+      "description": "A UI/UX Designer is responsible for designing user-friendly interfaces and enhancing user experiences across digital products. They combine creativity, research, and technical skills to create intuitive designs that align with user needs and business goals.",
+      "skills": [
+        "User research and analysis",
+        "Wireframing and prototyping",
+        "Visual design principles",
+        "User experience (UX) design",
+        "User interface (UI) design",
+        "Interaction design",
+        "Usability testing",
+        "Design thinking and problem-solving",
+        "Proficiency in design tools like Figma, Sketch, and Adobe XD",
+        "HTML, CSS, and basic JavaScript knowledge (optional but beneficial)"
+      ],
+      "responsibilities": [
+        "Conduct user research to understand needs and pain points.",
+        "Create wireframes, prototypes, and mockups for digital products.",
+        "Design visually appealing and functional user interfaces.",
+        "Collaborate with developers, product managers, and stakeholders.",
+        "Ensure consistency in design elements across platforms.",
+        "Perform usability testing and gather user feedback.",
+        "Stay updated with UI/UX trends and industry best practices."
+      ],
+      "salaryRange": "$60,000 - $120,000 per year",
+      "examples": [
+        "Redesigning an e-commerce website for a better user experience.",
+        "Creating a mobile app UI with intuitive navigation.",
+        "Developing a design system for a SaaS platform.",
+        "Enhancing accessibility features for a web application."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior UI/UX Designer",
+          "responsibilities": [
+            "Assist in wireframing and prototyping designs.",
+            "Support senior designers with user research.",
+            "Refine visual designs based on feedback."
+          ],
+          "salaryRange": "$60,000 - $75,000 per year"
+        },
+        {
+          "level": "Mid-Level UI/UX Designer",
+          "responsibilities": [
+            "Lead design projects and collaborate with cross-functional teams.",
+            "Create user journeys and high-fidelity prototypes.",
+            "Conduct usability testing and implement improvements."
+          ],
+          "salaryRange": "$75,000 - $90,000 per year"
+        },
+        {
+          "level": "Senior UI/UX Designer",
+          "responsibilities": [
+            "Drive the overall design strategy for digital products.",
+            "Mentor junior designers and ensure design consistency.",
+            "Advocate for user-centered design principles."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "UI/UX Design Manager / Director",
+          "responsibilities": [
+            "Oversee design teams and establish design guidelines.",
+            "Define user experience strategies aligned with business goals.",
+            "Collaborate with leadership to integrate design in company vision."
+          ],
+          "salaryRange": "$120,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google UX Design Professional Certificate",
+          "provider": "Google",
+          "description": "Covers foundational UX design principles and hands-on projects."
+        },
+        {
+          "name": "Nielsen Norman Group UX Certification",
+          "provider": "Nielsen Norman Group",
+          "description": "Provides in-depth training on usability and UX best practices."
+        },
+        {
+          "name": "Interaction Design Specialization",
+          "provider": "Coursera (University of California, San Diego)",
+          "description": "Focuses on interaction design and user experience methodologies."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Figma",
+          "description": "A collaborative UI/UX design tool for wireframing and prototyping."
+        },
+        {
+          "name": "Sketch",
+          "description": "A vector-based design tool widely used for UI design."
+        },
+        {
+          "name": "Adobe XD",
+          "description": "A design and prototyping tool for web and mobile applications."
+        },
+        {
+          "name": "InVision",
+          "description": "A digital product design and collaboration platform."
+        },
+        {
+          "name": "Axure RP",
+          "description": "A tool for creating advanced prototypes and wireframes."
+        }
+      ],
+      "futureScope": [
+        "Increasing demand for UX design in AI-driven products.",
+        "Growth of voice and gesture-based UI/UX design.",
+        "More emphasis on accessibility and inclusive design.",
+        "Expansion of UI/UX roles in augmented and virtual reality (AR/VR)."
+      ],
+      "challenges": [
+        "Balancing creativity with technical constraints.",
+        "Aligning business goals with user needs.",
+        "Keeping up with rapidly evolving design trends.",
+        "Ensuring cross-platform design consistency."
+      ],
+      "commonInterviewQuestions": [
+        "Can you walk us through your design process?",
+        "How do you handle feedback on your designs?",
+        "What tools do you use for prototyping and wireframing?",
+        "Describe a challenging UX problem you solved.",
+        "How do you ensure accessibility in your designs?"
+      ],
+      "resourcesForLearning": [
+        "Google UX Design Certificate: https://grow.google/certificates/ux-design/",
+        "NNGroup UX Research & Design: https://www.nngroup.com/articles/",
+        "Coursera UX Design Specialization: https://www.coursera.org/specializations/interaction-design",
+        "Figma Learning Hub: https://www.figma.com/resources/learn-design/",
+        "Smashing Magazine UX Articles: https://www.smashingmagazine.com/category/uxdesign/"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Mobile App Developer",
+      "description": "A Mobile App Developer is responsible for designing, building, and maintaining applications for mobile devices on various platforms such as iOS and Android. They work with programming languages, frameworks, and tools to create user-friendly and efficient mobile applications.",
+      "skills": [
+        "Proficiency in programming languages such as Swift, Kotlin, Java, and Dart",
+        "Experience with mobile development frameworks like React Native and Flutter",
+        "Knowledge of RESTful APIs and backend integration",
+        "UI/UX design principles for mobile applications",
+        "Understanding of mobile security best practices",
+        "Debugging and performance optimization techniques",
+        "Familiarity with version control systems such as Git",
+        "Ability to work with cloud services and databases like Firebase, AWS, or Google Cloud",
+        "Experience with app deployment on App Store and Google Play Store"
+      ],
+      "responsibilities": [
+        "Develop, test, and maintain mobile applications for iOS and Android platforms.",
+        "Collaborate with designers and backend developers to create seamless user experiences.",
+        "Optimize app performance and ensure security best practices are followed.",
+        "Stay updated with the latest mobile development trends and technologies.",
+        "Troubleshoot and debug issues to ensure smooth app functionality.",
+        "Work with APIs and third-party services for integrations.",
+        "Ensure app compliance with App Store and Play Store guidelines."
+      ],
+      "salaryRange": "$70,000 - $140,000 per year",
+      "examples": [
+        "Developing a mobile banking app for secure financial transactions.",
+        "Creating a fitness tracking app with real-time analytics.",
+        "Building an e-commerce mobile application with payment integration.",
+        "Developing a social media app with chat and video call features."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Mobile App Developer",
+          "responsibilities": [
+            "Assist in app development and debugging.",
+            "Work on UI enhancements and minor bug fixes.",
+            "Learn and implement best coding practices."
+          ],
+          "salaryRange": "$70,000 - $85,000 per year"
+        },
+        {
+          "level": "Mid-Level Mobile App Developer",
+          "responsibilities": [
+            "Lead development of features and modules.",
+            "Optimize app performance and scalability.",
+            "Collaborate with cross-functional teams on app architecture."
+          ],
+          "salaryRange": "$85,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior Mobile App Developer",
+          "responsibilities": [
+            "Architect and design scalable mobile applications.",
+            "Mentor junior developers and guide code reviews.",
+            "Integrate advanced functionalities and APIs."
+          ],
+          "salaryRange": "$110,000 - $140,000 per year"
+        },
+        {
+          "level": "Mobile App Development Lead / Manager",
+          "responsibilities": [
+            "Oversee the mobile app development team and projects.",
+            "Define mobile app strategies aligned with business goals.",
+            "Ensure best coding practices and security measures."
+          ],
+          "salaryRange": "$140,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Associate Android Developer",
+          "provider": "Google",
+          "description": "Certification validating skills in Android development using Kotlin."
+        },
+        {
+          "name": "Apple Certified iOS Developer",
+          "provider": "Apple",
+          "description": "Certification for iOS developers proficient in Swift and Xcode."
+        },
+        {
+          "name": "Flutter Certified Developer",
+          "provider": "Google",
+          "description": "Certification demonstrating expertise in Flutter mobile app development."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Android Studio",
+          "description": "Official IDE for Android app development."
+        },
+        {
+          "name": "Xcode",
+          "description": "Apple’s official IDE for iOS and macOS app development."
+        },
+        {
+          "name": "React Native",
+          "description": "A framework for building cross-platform mobile apps using JavaScript."
+        },
+        {
+          "name": "Flutter",
+          "description": "A UI toolkit by Google for building natively compiled applications."
+        },
+        {
+          "name": "Firebase",
+          "description": "A backend-as-a-service platform for mobile and web apps."
+        }
+      ],
+      "futureScope": [
+        "Growth of 5G will enhance mobile app capabilities.",
+        "Increased demand for AI and machine learning in mobile apps.",
+        "Rise of AR and VR applications in mobile gaming and e-commerce.",
+        "More focus on security and data privacy in mobile apps."
+      ],
+      "challenges": [
+        "Ensuring compatibility across multiple devices and OS versions.",
+        "Optimizing battery and performance efficiency.",
+        "Keeping up with frequent updates in mobile OS platforms.",
+        "Balancing app functionality with a seamless user experience."
+      ],
+      "commonInterviewQuestions": [
+        "Explain the differences between native and cross-platform app development.",
+        "How do you optimize an app for better performance?",
+        "Describe your experience with RESTful APIs.",
+        "How do you handle security in mobile applications?",
+        "Can you explain the app development lifecycle?"
+      ],
+      "resourcesForLearning": [
+        "Android Developers Guide: https://developer.android.com/",
+        "iOS Developer Documentation: https://developer.apple.com/",
+        "Flutter Docs: https://flutter.dev/docs",
+        "React Native Docs: https://reactnative.dev/docs/getting-started",
+        "Firebase Documentation: https://firebase.google.com/docs"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Software Engineer",
+      "description": "A Software Engineer is responsible for designing, developing, testing, and maintaining software applications. They work with various programming languages, frameworks, and tools to create efficient and scalable software solutions.",
+      "skills": [
+        "Programming (Java, Python, JavaScript, C++)",
+        "Data Structures and Algorithms",
+        "Software Development Life Cycle (SDLC)",
+        "Version Control (Git, GitHub, GitLab)",
+        "Databases (SQL, NoSQL)",
+        "Web Development (HTML, CSS, JavaScript, React, Angular)",
+        "Backend Development (Node.js, Django, Flask, Spring Boot)",
+        "Cloud Computing (AWS, Azure, GCP)",
+        "DevOps and CI/CD",
+        "Problem-Solving and Debugging"
+      ],
+      "responsibilities": [
+        "Write clean, efficient, and maintainable code",
+        "Develop and maintain software applications",
+        "Collaborate with cross-functional teams to define and implement features",
+        "Perform software testing and debugging",
+        "Participate in code reviews and improve software quality",
+        "Optimize application performance and scalability",
+        "Stay updated with emerging technologies and best practices",
+        "Ensure security and data protection measures in applications"
+      ],
+      "salaryRange": "$70,000 - $150,000 per year",
+      "examples": [
+        "Developing a web application for e-commerce platforms",
+        "Building a mobile app for task management",
+        "Creating backend APIs for a social networking site",
+        "Implementing machine learning models for data analysis"
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Software Engineer",
+          "responsibilities": [
+            "Write and debug simple programs",
+            "Assist in software testing and documentation",
+            "Work under senior developers for learning"
+          ],
+          "salaryRange": "$50,000 - $80,000 per year"
+        },
+        {
+          "level": "Software Engineer",
+          "responsibilities": [
+            "Develop and maintain software applications",
+            "Collaborate with teams on system design",
+            "Ensure performance and security of applications"
+          ],
+          "salaryRange": "$70,000 - $100,000 per year"
+        },
+        {
+          "level": "Senior Software Engineer",
+          "responsibilities": [
+            "Design and architect software solutions",
+            "Mentor junior engineers",
+            "Lead development projects"
+          ],
+          "salaryRange": "$100,000 - $140,000 per year"
+        },
+        {
+          "level": "Software Architect/Engineering Manager",
+          "responsibilities": [
+            "Define software architecture",
+            "Manage engineering teams",
+            "Oversee project execution and strategy"
+          ],
+          "salaryRange": "$130,000 - $180,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Developer – Associate",
+          "provider": "Amazon Web Services (AWS)",
+          "description": "Validates expertise in developing and maintaining applications on AWS."
+        },
+        {
+          "name": "Google Professional Cloud Developer",
+          "provider": "Google Cloud Platform (GCP)",
+          "description": "Demonstrates ability to build cloud-based applications on GCP."
+        },
+        {
+          "name": "Microsoft Certified: Azure Developer Associate",
+          "provider": "Microsoft",
+          "description": "Covers development and deployment of cloud solutions on Azure."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Git",
+          "description": "Version control system for tracking code changes."
+        },
+        {
+          "name": "Docker",
+          "description": "Containerization platform for deploying applications."
+        },
+        {
+          "name": "Jenkins",
+          "description": "Automation server for CI/CD pipelines."
+        },
+        {
+          "name": "Visual Studio Code",
+          "description": "Lightweight code editor for multiple languages."
+        },
+        {
+          "name": "Postman",
+          "description": "Tool for API development and testing."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for AI and machine learning engineers",
+        "Growth in cloud computing and DevOps roles",
+        "Rising importance of cybersecurity software development",
+        "Expansion of blockchain and decentralized applications"
+      ],
+      "challenges": [
+        "Keeping up with rapidly evolving technologies",
+        "Handling complex debugging and troubleshooting",
+        "Ensuring software security and performance",
+        "Managing project deadlines and team collaboration"
+      ],
+      "commonInterviewQuestions": [
+        "Explain the difference between procedural and object-oriented programming?",
+        "How do you optimize database queries?",
+        "What are the differences between SQL and NoSQL databases?",
+        "Describe the SOLID principles in software development?",
+        "How would you handle a memory leak in an application?"
+      ],
+      "resourcesForLearning": [
+        "Eloquent JavaScript by Marijn Haverbeke",
+        "The Pragmatic Programmer by Andrew Hunt and David Thomas",
+        "Clean Code by Robert C. Martin",
+        "LeetCode and HackerRank for coding practice",
+        "Udemy and Coursera courses on full-stack development"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Database Administrator",
+      "description": "A Database Administrator (DBA) is responsible for managing and maintaining databases to ensure optimal performance, security, and availability.",
+      "skills": [
+        "SQL and NoSQL Databases",
+        "Database Security",
+        "Backup and Recovery",
+        "Performance Tuning",
+        "Cloud Database Management"
+      ],
+      "responsibilities": [
+        "Install and configure database systems",
+        "Monitor database performance",
+        "Ensure data security and integrity",
+        "Implement backup and recovery procedures",
+        "Optimize database queries for performance",
+        "Manage database user access and permissions",
+        "Work with developers to design efficient database structures"
+      ],
+      "salaryRange": "$60,000 - $120,000 per year",
+      "examples": [
+        "Managing a company's customer database",
+        "Optimizing database performance for a high-traffic application",
+        "Implementing a disaster recovery plan for critical data",
+        "Setting up cloud-based databases for scalability"
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Database Administrator",
+          "responsibilities": [
+            "Assist in database maintenance and backups",
+            "Monitor database performance and security",
+            "Support senior DBAs in troubleshooting issues"
+          ],
+          "salaryRange": "$50,000 - $70,000 per year"
+        },
+        {
+          "level": "Database Administrator",
+          "responsibilities": [
+            "Manage and maintain databases",
+            "Optimize performance and security",
+            "Implement backup and disaster recovery strategies"
+          ],
+          "salaryRange": "$70,000 - $100,000 per year"
+        },
+        {
+          "level": "Senior Database Administrator",
+          "responsibilities": [
+            "Design and implement complex database solutions",
+            "Mentor junior DBAs",
+            "Lead database security and compliance initiatives"
+          ],
+          "salaryRange": "$100,000 - $130,000 per year"
+        },
+        {
+          "level": "Database Architect/Database Manager",
+          "responsibilities": [
+            "Define database strategies and architecture",
+            "Manage large-scale database systems",
+            "Oversee a team of database administrators"
+          ],
+          "salaryRange": "$120,000 - $160,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Oracle Certified Professional",
+          "provider": "Oracle",
+          "description": "Validates advanced knowledge of Oracle database management."
+        },
+        {
+          "name": "Microsoft Certified: Azure Database Administrator Associate",
+          "provider": "Microsoft",
+          "description": "Covers database implementation and management on Azure."
+        },
+        {
+          "name": "AWS Certified Database – Specialty",
+          "provider": "Amazon Web Services (AWS)",
+          "description": "Demonstrates expertise in AWS database solutions."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "MySQL",
+          "description": "Popular open-source relational database management system."
+        },
+        {
+          "name": "PostgreSQL",
+          "description": "Advanced, open-source relational database known for extensibility."
+        },
+        {
+          "name": "MongoDB",
+          "description": "NoSQL database designed for scalability and flexibility."
+        },
+        {
+          "name": "Oracle DB",
+          "description": "Enterprise-grade relational database management system."
+        },
+        {
+          "name": "Microsoft SQL Server",
+          "description": "Powerful relational database management system by Microsoft."
+        }
+      ],
+      "futureScope": [
+        "Growing demand for cloud-based database solutions",
+        "Increased focus on database security and compliance",
+        "Expansion of big data and analytics-driven databases",
+        "Rise of AI-powered database automation"
+      ],
+      "challenges": [
+        "Ensuring data security and regulatory compliance",
+        "Optimizing database performance for large-scale applications",
+        "Managing data backup and disaster recovery",
+        "Keeping up with emerging database technologies"
+      ],
+      "commonInterviewQuestions": [
+        "What are the differences between SQL and NoSQL databases?",
+        "How do you optimize a slow-performing database query?",
+        "Explain ACID properties in database transactions.",
+        "What are indexing and its types in databases?",
+        "Describe a scenario where you had to recover lost data."
+      ],
+      "resourcesForLearning": [
+        "Database Systems: The Complete Book by Hector Garcia-Molina",
+        "SQL for Data Analytics by Upom Malik, Matt Goldwasser, and Benjamin Johnston",
+        "Udemy and Coursera courses on database management",
+        "Oracle and Microsoft official certification study guides",
+        "Practical SQL: A Beginner’s Guide to Storytelling with Data by Anthony DeBarros"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Business Intelligence Analyst",
+      "description": "A Business Intelligence Analyst is responsible for analyzing data to help organizations make informed business decisions. They collect, process, and interpret large datasets to identify trends and insights that drive strategic planning.",
+      "skills": [
+        "Data Analysis and Visualization",
+        "SQL and Database Management",
+        "Business Intelligence Tools (Power BI, Tableau, Looker)",
+        "Statistical and Predictive Analytics",
+        "Data Warehousing",
+        "ETL (Extract, Transform, Load) Processes",
+        "Python or R for Data Analysis",
+        "Reporting and Dashboarding",
+        "Problem-Solving and Critical Thinking",
+        "Stakeholder Communication"
+      ],
+      "responsibilities": [
+        "Gather and analyze business data to identify trends and patterns",
+        "Develop and maintain dashboards and reports for business decision-making",
+        "Work with stakeholders to understand data needs and translate them into insights",
+        "Optimize data collection and reporting processes",
+        "Ensure data accuracy and integrity",
+        "Perform predictive and statistical analysis to support business strategies",
+        "Collaborate with IT and business teams to improve data-driven decision-making",
+        "Stay updated with emerging trends in business intelligence and analytics"
+      ],
+      "salaryRange": "$65,000 - $120,000 per year",
+      "examples": [
+        "Developing an executive dashboard for tracking company performance",
+        "Creating reports on customer behavior for marketing strategies",
+        "Analyzing sales data to identify revenue opportunities",
+        "Building predictive models for demand forecasting"
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Business Intelligence Analyst",
+          "responsibilities": [
+            "Assist in data collection and reporting",
+            "Work with BI tools to generate basic reports",
+            "Support senior analysts in data analysis tasks"
+          ],
+          "salaryRange": "$50,000 - $75,000 per year"
+        },
+        {
+          "level": "Business Intelligence Analyst",
+          "responsibilities": [
+            "Develop and maintain dashboards and reports",
+            "Analyze and interpret business data",
+            "Collaborate with stakeholders for data-driven solutions"
+          ],
+          "salaryRange": "$65,000 - $100,000 per year"
+        },
+        {
+          "level": "Senior Business Intelligence Analyst",
+          "responsibilities": [
+            "Lead BI projects and data strategy initiatives",
+            "Mentor junior analysts and improve reporting efficiency",
+            "Work closely with leadership to provide strategic insights"
+          ],
+          "salaryRange": "$90,000 - $130,000 per year"
+        },
+        {
+          "level": "BI Manager/Director of Business Intelligence",
+          "responsibilities": [
+            "Oversee business intelligence operations and teams",
+            "Define data strategies and analytics frameworks",
+            "Drive data-driven decision-making across the organization"
+          ],
+          "salaryRange": "$120,000 - $180,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Certified: Data Analyst Associate",
+          "provider": "Microsoft",
+          "description": "Validates expertise in using Power BI for business intelligence."
+        },
+        {
+          "name": "Tableau Desktop Specialist",
+          "provider": "Tableau",
+          "description": "Demonstrates knowledge of Tableau for data visualization and analysis."
+        },
+        {
+          "name": "Google Data Analytics Certificate",
+          "provider": "Google",
+          "description": "Covers data analysis, SQL, and visualization skills."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Power BI",
+          "description": "Business intelligence tool for data visualization and reporting."
+        },
+        {
+          "name": "Tableau",
+          "description": "Data visualization software for business intelligence."
+        },
+        {
+          "name": "SQL",
+          "description": "Database querying language for data extraction and manipulation."
+        },
+        {
+          "name": "Google Looker",
+          "description": "Cloud-based business intelligence platform for data exploration."
+        },
+        {
+          "name": "Excel",
+          "description": "Spreadsheet software for data analysis and reporting."
+        }
+      ],
+      "futureScope": [
+        "Growing demand for AI-powered data analysis and automation",
+        "Increased use of real-time analytics for business decisions",
+        "Expansion of cloud-based BI solutions",
+        "Integration of BI with machine learning and predictive analytics"
+      ],
+      "challenges": [
+        "Ensuring data accuracy and consistency",
+        "Managing large and complex datasets",
+        "Aligning data insights with business goals",
+        "Keeping up with evolving BI tools and technologies"
+      ],
+      "commonInterviewQuestions": [
+        "How do you handle missing or inconsistent data?",
+        "What are the differences between OLAP and OLTP?",
+        "How do you optimize SQL queries for large datasets?",
+        "Can you explain a BI project you worked on and its impact?",
+        "What metrics would you use to analyze business performance?"
+      ],
+      "resourcesForLearning": [
+        "The Data Warehouse Toolkit by Ralph Kimball",
+        "Storytelling with Data by Cole Nussbaumer Knaflic",
+        "Udemy and Coursera courses on Power BI and Tableau",
+        "SQL and Data Analytics tutorials on DataCamp and LeetCode"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "System Administrator",
+      "description": "A System Administrator is responsible for managing and maintaining an organization's IT infrastructure, including servers, networks, and security systems. They ensure high availability, performance, and security of IT systems.",
+      "skills": [
+        "Windows and Linux server administration",
+        "Network configuration and troubleshooting",
+        "Active Directory and LDAP management",
+        "Virtualization (VMware, Hyper-V, etc.)",
+        "Cloud computing (AWS, Azure, Google Cloud)",
+        "Scripting (PowerShell, Bash, Python)",
+        "Backup and disaster recovery planning",
+        "Security protocols and firewalls",
+        "Database administration",
+        "Monitoring and logging tools (Nagios, Splunk, etc.)"
+      ],
+      "responsibilities": [
+        "Install, configure, and maintain servers and networks.",
+        "Monitor system performance and troubleshoot issues.",
+        "Manage user accounts, permissions, and access controls.",
+        "Ensure data security and compliance with IT policies.",
+        "Implement backup and disaster recovery solutions.",
+        "Manage virtualization and cloud infrastructure.",
+        "Apply patches, updates, and system upgrades.",
+        "Monitor and respond to security threats.",
+        "Document IT procedures and system configurations.",
+        "Collaborate with IT teams for system optimization."
+      ],
+      "salaryRange": "$60,000 - $120,000 per year",
+      "examples": [
+        "Managing Windows and Linux servers in an enterprise environment.",
+        "Setting up and maintaining Active Directory for user authentication.",
+        "Implementing a backup strategy for disaster recovery.",
+        "Monitoring and optimizing network performance."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior System Administrator",
+          "responsibilities": [
+            "Assist in system maintenance and troubleshooting.",
+            "Monitor server health and security logs.",
+            "Manage basic user account tasks."
+          ],
+          "salaryRange": "$50,000 - $70,000 per year"
+        },
+        {
+          "level": "System Administrator",
+          "responsibilities": [
+            "Maintain server infrastructure and network security.",
+            "Implement backup and disaster recovery plans.",
+            "Manage virtualization and cloud environments."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Senior System Administrator",
+          "responsibilities": [
+            "Architect and optimize IT infrastructure.",
+            "Develop automation scripts for system management.",
+            "Lead security and compliance initiatives."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "IT Manager / Infrastructure Architect",
+          "responsibilities": [
+            "Oversee IT operations and strategy.",
+            "Develop policies for IT security and infrastructure growth.",
+            "Lead system administrators and IT teams."
+          ],
+          "salaryRange": "$110,000 - $150,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Microsoft Certified: Azure Administrator Associate",
+          "provider": "Microsoft",
+          "description": "Covers Azure cloud infrastructure management."
+        },
+        {
+          "name": "Red Hat Certified System Administrator (RHCSA)",
+          "provider": "Red Hat",
+          "description": "Focuses on Linux system administration skills."
+        },
+        {
+          "name": "CompTIA Server+",
+          "provider": "CompTIA",
+          "description": "Covers server installation, maintenance, and troubleshooting."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Windows Server",
+          "description": "Operating system for managing enterprise infrastructure."
+        },
+        {
+          "name": "Linux (Ubuntu, CentOS, Red Hat)",
+          "description": "Popular OS choices for server management."
+        },
+        {
+          "name": "VMware vSphere",
+          "description": "A virtualization platform for managing virtual machines."
+        },
+        {
+          "name": "Nagios",
+          "description": "A monitoring tool for system and network performance."
+        },
+        {
+          "name": "Active Directory",
+          "description": "Microsoft's directory service for user authentication and management."
+        }
+      ],
+      "futureScope": [
+        "Increased adoption of cloud-based infrastructure management.",
+        "Growth in DevOps and automation for IT operations.",
+        "Enhanced cybersecurity measures for system administration.",
+        "More demand for hybrid cloud and on-premise system management.",
+        "Expansion of AI-driven monitoring and troubleshooting tools."
+      ],
+      "challenges": [
+        "Managing security vulnerabilities and cyber threats.",
+        "Ensuring high availability and uptime of IT systems.",
+        "Handling large-scale migrations to cloud environments.",
+        "Keeping up with software updates and patches.",
+        "Balancing performance, security, and cost-effectiveness."
+      ],
+      "commonInterviewQuestions": [
+        "What steps do you take to secure a Linux or Windows server?",
+        "How do you troubleshoot a network connectivity issue?",
+        "Explain the difference between RAID levels and their use cases.",
+        "What are the best practices for managing Active Directory?",
+        "How do you implement a disaster recovery plan?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Linux System Administration Basics",
+          "provider": "Udemy",
+          "description": "Covers essential Linux system administration skills."
+        },
+        {
+          "name": "Windows Server Administration Fundamentals",
+          "provider": "Microsoft Learn",
+          "description": "A beginner-friendly course on managing Windows servers."
+        },
+        {
+          "name": "The Phoenix Project",
+          "provider": "Gene Kim",
+          "description": "A book that explains IT operations and DevOps concepts."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Network Engineer",
+      "description": "A Network Engineer is responsible for designing, implementing, and maintaining an organization's networking infrastructure, ensuring seamless communication and security across systems.",
+      "skills": [
+        "Networking protocols (TCP/IP, DNS, DHCP)",
+        "Routing and Switching",
+        "Network Security",
+        "Firewalls and VPNs",
+        "Cloud Networking",
+        "Troubleshooting and Diagnostics"
+      ],
+      "responsibilities": [
+        "Design and implement network configurations.",
+        "Monitor network performance and troubleshoot issues.",
+        "Ensure network security and implement firewalls.",
+        "Manage network devices such as routers, switches, and access points.",
+        "Collaborate with IT teams to enhance network efficiency.",
+        "Maintain documentation of network configurations and procedures."
+      ],
+      "salaryRange": "$60,000 - $120,000 per year",
+      "examples": [
+        "Cisco Certified Network Engineer",
+        "Cloud Network Engineer (AWS, Azure)"
+      ],
+      "careerProgression": [
+        {
+          "level": "Entry-Level",
+          "responsibilities": [
+            "Basic network troubleshooting",
+            "Assisting senior engineers"
+          ],
+          "salaryRange": "$50,000 - $70,000"
+        },
+        {
+          "level": "Mid-Level",
+          "responsibilities": [
+            "Network architecture planning",
+            "Implementing security policies"
+          ],
+          "salaryRange": "$70,000 - $100,000"
+        },
+        {
+          "level": "Senior-Level",
+          "responsibilities": [
+            "Managing large-scale networks",
+            "Leading network teams"
+          ],
+          "salaryRange": "$100,000 - $150,000"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Cisco Certified Network Associate (CCNA)",
+          "provider": "Cisco",
+          "description": "Covers networking fundamentals, IP connectivity, security, and automation."
+        },
+        {
+          "name": "CompTIA Network+",
+          "provider": "CompTIA",
+          "description": "Validates networking knowledge and troubleshooting skills."
+        },
+        {
+          "name": "AWS Certified Advanced Networking",
+          "provider": "AWS",
+          "description": "Focuses on networking in AWS environments."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Wireshark",
+          "description": "Network packet analyzer for troubleshooting and security."
+        },
+        {
+          "name": "Cisco Packet Tracer",
+          "description": "Network simulation tool for learning and testing."
+        },
+        {
+          "name": "SolarWinds",
+          "description": "Network monitoring and management software."
+        },
+        {
+          "name": "pfSense",
+          "description": "Open-source firewall and router software."
+        },
+        {
+          "name": "Ansible",
+          "description": "Automation tool for network configuration."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for cloud networking specialists.",
+        "Growing need for network automation expertise.",
+        "High focus on cybersecurity integration in networking."
+      ],
+      "challenges": [
+        "Keeping up with evolving network technologies.",
+        "Ensuring cybersecurity measures are up to date.",
+        "Managing complex and large-scale enterprise networks."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between a router and a switch?",
+        "How does subnetting work in networking?",
+        "Can you explain the OSI model and its layers?",
+        "What steps would you take to troubleshoot network latency issues?"
+      ],
+      "resourcesForLearning": [
+        "Cisco Networking Academy",
+        "CompTIA Network+ Study Guide",
+        "AWS Advanced Networking Certification Course",
+        "Networking YouTube Channels (e.g., NetworkChuck, Eli the Computer Guy)"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Game Developer",
+      "description": "A Game Developer designs, develops, and maintains video games for various platforms, including PC, consoles, and mobile devices.",
+      "skills": [
+        "Programming (C++, C#, Java, Python)",
+        "Game Engines (Unity, Unreal Engine)",
+        "3D Modeling & Animation (Blender, Maya, 3ds Max)",
+        "Physics & AI in Games",
+        "Multiplayer & Networking",
+        "Problem-Solving & Creativity"
+      ],
+      "responsibilities": [
+        "Design and develop game mechanics and logic.",
+        "Optimize performance for various platforms.",
+        "Implement AI, physics, and rendering techniques.",
+        "Collaborate with artists and designers.",
+        "Debug and test games to ensure quality."
+      ],
+      "salaryRange": "$50,000 - $120,000 per year",
+      "examples": ["Minecraft", "Fortnite", "Call of Duty", "Among Us"],
+      "careerProgression": [
+        {
+          "level": "Junior Game Developer",
+          "responsibilities": [
+            "Assist in coding and debugging.",
+            "Work under senior developers."
+          ],
+          "salaryRange": "$50,000 - $70,000"
+        },
+        {
+          "level": "Game Developer",
+          "responsibilities": [
+            "Develop core game features.",
+            "Optimize code performance."
+          ],
+          "salaryRange": "$70,000 - $90,000"
+        },
+        {
+          "level": "Senior Game Developer",
+          "responsibilities": [
+            "Lead development teams.",
+            "Implement complex game mechanics."
+          ],
+          "salaryRange": "$90,000 - $120,000"
+        },
+        {
+          "level": "Game Director",
+          "responsibilities": [
+            "Oversee entire game projects.",
+            "Manage budgets and teams."
+          ],
+          "salaryRange": "$120,000+"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Unity Certified Developer",
+          "provider": "Unity",
+          "description": "Certifies proficiency in Unity development."
+        },
+        {
+          "name": "Unreal Engine Certification",
+          "provider": "Epic Games",
+          "description": "Validates skills in Unreal Engine game development."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Unity",
+          "description": "A popular game engine for 2D and 3D games."
+        },
+        {
+          "name": "Unreal Engine",
+          "description": "A high-performance game engine."
+        },
+        {
+          "name": "Blender",
+          "description": "A tool for 3D modeling and animation."
+        }
+      ],
+      "futureScope": [
+        "Growing demand for VR and AR gaming.",
+        "Expansion of cloud gaming platforms.",
+        "AI-driven game development."
+      ],
+      "challenges": [
+        "Keeping up with evolving technology.",
+        "Optimization for different hardware platforms.",
+        "High competition in the gaming industry."
+      ],
+      "commonInterviewQuestions": [
+        "Explain the game development lifecycle.",
+        "How would you optimize game performance?",
+        "What is the difference between Unity and Unreal Engine?"
+      ],
+      "resourcesForLearning": [
+        "Udemy: Game Development Courses",
+        "Unity Learn",
+        "Unreal Engine Documentation"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Embedded Systems Engineer",
+      "description": "An Embedded Systems Engineer is responsible for designing, developing, and maintaining embedded systems and firmware used in various hardware devices. They work with microcontrollers, real-time operating systems (RTOS), and low-level programming to optimize system performance.",
+      "skills": [
+        "Embedded C/C++",
+        "Microcontroller programming (ARM, AVR, PIC, etc.)",
+        "Real-Time Operating Systems (RTOS)",
+        "Firmware development",
+        "Circuit design and PCB layout",
+        "Communication protocols (I2C, SPI, UART, CAN, etc.)",
+        "Low-power embedded design",
+        "Debugging tools (JTAG, logic analyzers, oscilloscopes)",
+        "Linux embedded development",
+        "Python for automation and scripting"
+      ],
+      "responsibilities": [
+        "Design and develop embedded system software and firmware.",
+        "Work with microcontrollers and microprocessors to optimize performance.",
+        "Develop and debug real-time embedded systems.",
+        "Implement and optimize communication protocols like SPI, I2C, and UART.",
+        "Collaborate with hardware engineers for circuit design and integration.",
+        "Perform firmware testing and debugging using various debugging tools.",
+        "Optimize embedded software for power consumption and efficiency.",
+        "Ensure compliance with industry standards and safety regulations.",
+        "Write technical documentation and user manuals.",
+        "Conduct research on emerging embedded technologies and improvements."
+      ],
+      "salaryRange": "$70,000 - $130,000 per year",
+      "examples": [
+        "Developing firmware for IoT devices",
+        "Designing an embedded system for automotive applications",
+        "Creating real-time operating system (RTOS)-based firmware for medical devices",
+        "Developing low-power embedded systems for wearable technology"
+      ],
+      "careerProgression": [
+        {
+          "level": "Entry-Level Embedded Engineer",
+          "responsibilities": [
+            "Assist in embedded system design and testing.",
+            "Write and debug firmware for microcontrollers.",
+            "Collaborate with senior engineers on hardware-software integration."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Mid-Level Embedded Engineer",
+          "responsibilities": [
+            "Lead embedded system projects and development efforts.",
+            "Optimize firmware for performance and power efficiency.",
+            "Implement advanced communication protocols and RTOS."
+          ],
+          "salaryRange": "$80,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior Embedded Systems Engineer",
+          "responsibilities": [
+            "Architect and design embedded solutions for complex applications.",
+            "Lead cross-functional teams for system development.",
+            "Ensure compliance with industry standards and safety regulations."
+          ],
+          "salaryRange": "$110,000 - $150,000 per year"
+        },
+        {
+          "level": "Embedded Systems Architect",
+          "responsibilities": [
+            "Define the overall embedded system architecture.",
+            "Provide technical leadership and mentorship.",
+            "Drive innovation in embedded system designs."
+          ],
+          "salaryRange": "$130,000 - $180,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Embedded Systems Engineer (CESE)",
+          "provider": "IEEE",
+          "description": "Certification covering embedded system design, programming, and real-time development."
+        },
+        {
+          "name": "ARM Accredited Engineer",
+          "provider": "ARM",
+          "description": "Certification for ARM-based embedded system development."
+        },
+        {
+          "name": "Certified IoT Professional",
+          "provider": "IoT-Inc",
+          "description": "Focuses on IoT devices and embedded firmware development."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Keil uVision",
+          "description": "An integrated development environment (IDE) for ARM microcontroller development."
+        },
+        {
+          "name": "Eclipse with GNU Arm Embedded Toolchain",
+          "description": "IDE and toolchain for developing embedded applications."
+        },
+        {
+          "name": "JTAG Debuggers",
+          "description": "Hardware debugging tool for embedded system firmware analysis."
+        },
+        {
+          "name": "Oscilloscope & Logic Analyzer",
+          "description": "Used to analyze signal integrity and debug hardware interactions."
+        },
+        {
+          "name": "Altium Designer",
+          "description": "Software for PCB design and circuit simulation."
+        }
+      ],
+      "futureScope": [
+        "Growth in IoT-based embedded systems for smart devices.",
+        "Expansion in automotive embedded systems with autonomous driving technologies.",
+        "Integration of AI and machine learning in embedded hardware.",
+        "Demand for embedded security solutions in connected devices.",
+        "Advancements in real-time embedded computing for industrial automation."
+      ],
+      "challenges": [
+        "Optimizing performance in resource-constrained environments.",
+        "Ensuring real-time processing and responsiveness.",
+        "Debugging hardware-software integration issues.",
+        "Handling power management for battery-operated devices.",
+        "Ensuring security and encryption in embedded firmware."
+      ],
+      "commonInterviewQuestions": [
+        "Explain the difference between a microcontroller and a microprocessor.",
+        "What is an RTOS, and how does it differ from a general-purpose OS?",
+        "How do you optimize embedded systems for low power consumption?",
+        "Explain the role of DMA (Direct Memory Access) in embedded systems.",
+        "Describe the working of SPI and I2C communication protocols."
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Embedded Systems - Shape The World",
+          "provider": "Coursera (University of Texas at Austin)",
+          "description": "A hands-on introduction to embedded systems and microcontroller programming."
+        },
+        {
+          "name": "Mastering Embedded Linux Programming",
+          "provider": "Packt Publishing",
+          "description": "A book covering Linux-based embedded system development."
+        },
+        {
+          "name": "The Art of Designing Embedded Systems",
+          "provider": "Jack Ganssle",
+          "description": "A comprehensive book covering best practices in embedded system design."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Data Analyst",
+      "description": "A Data Analyst is responsible for collecting, processing, and analyzing data to help organizations make data-driven decisions. They use statistical tools, visualization techniques, and databases to interpret trends and insights.",
+      "skills": [
+        "Data visualization (Tableau, Power BI, Matplotlib, Seaborn)",
+        "SQL and database management",
+        "Python/R for data analysis",
+        "Statistical analysis and hypothesis testing",
+        "Excel (Pivot Tables, VLOOKUP, Macros)",
+        "Data wrangling and cleaning",
+        "Machine learning fundamentals",
+        "Business intelligence and reporting",
+        "ETL (Extract, Transform, Load) processes",
+        "Big data technologies (Hadoop, Spark)"
+      ],
+      "responsibilities": [
+        "Collect and analyze data to identify trends and insights.",
+        "Develop reports and dashboards using visualization tools.",
+        "Perform data cleaning and preprocessing for accuracy.",
+        "Use statistical methods to validate findings.",
+        "Collaborate with business teams to provide data-driven recommendations.",
+        "Optimize database queries and improve data retrieval performance.",
+        "Monitor key performance indicators (KPIs) and business metrics.",
+        "Communicate insights effectively to non-technical stakeholders.",
+        "Work with IT and engineering teams for data integration.",
+        "Ensure data security and compliance with regulations."
+      ],
+      "salaryRange": "$60,000 - $110,000 per year",
+      "examples": [
+        "Analyzing sales data to identify trends in customer behavior.",
+        "Building dashboards in Power BI for executive decision-making.",
+        "Performing A/B testing to evaluate marketing strategies.",
+        "Optimizing SQL queries for faster data retrieval."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Data Analyst",
+          "responsibilities": [
+            "Assist in data collection and basic reporting.",
+            "Perform exploratory data analysis.",
+            "Clean and preprocess datasets."
+          ],
+          "salaryRange": "$50,000 - $70,000 per year"
+        },
+        {
+          "level": "Data Analyst",
+          "responsibilities": [
+            "Develop dashboards and reports.",
+            "Perform advanced statistical analysis.",
+            "Collaborate with business teams on insights."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Senior Data Analyst",
+          "responsibilities": [
+            "Lead data-driven decision-making strategies.",
+            "Work with machine learning models for predictive analysis.",
+            "Optimize database performance and ETL pipelines."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Data Scientist / Business Intelligence Manager",
+          "responsibilities": [
+            "Develop and implement advanced analytical models.",
+            "Drive business intelligence strategies.",
+            "Lead data teams and mentor junior analysts."
+          ],
+          "salaryRange": "$110,000 - $150,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Data Analytics Professional Certificate",
+          "provider": "Google",
+          "description": "Covers SQL, data visualization, and analysis techniques."
+        },
+        {
+          "name": "Microsoft Certified: Data Analyst Associate",
+          "provider": "Microsoft",
+          "description": "Focuses on Power BI and business intelligence."
+        },
+        {
+          "name": "IBM Data Analyst Professional Certificate",
+          "provider": "IBM",
+          "description": "Includes Python, SQL, and data visualization concepts."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "SQL",
+          "description": "A language used for querying and managing databases."
+        },
+        {
+          "name": "Python",
+          "description": "A programming language for data analysis and visualization."
+        },
+        {
+          "name": "Tableau",
+          "description": "A data visualization tool for creating reports and dashboards."
+        },
+        {
+          "name": "Power BI",
+          "description": "A business intelligence tool for creating interactive visualizations."
+        },
+        {
+          "name": "Excel",
+          "description": "A spreadsheet tool for data analysis and reporting."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for AI-driven analytics and automation.",
+        "Growing importance of data-driven decision-making in all industries.",
+        "Expansion of cloud-based data analytics platforms.",
+        "Integration of machine learning and predictive analytics.",
+        "Rising need for real-time analytics and big data processing."
+      ],
+      "challenges": [
+        "Handling large and unstructured datasets.",
+        "Ensuring data accuracy and consistency.",
+        "Communicating complex insights to non-technical stakeholders.",
+        "Keeping up with new tools and technologies in data science.",
+        "Managing data privacy and compliance with regulations."
+      ],
+      "commonInterviewQuestions": [
+        "How do you clean and preprocess a dataset before analysis?",
+        "What are the differences between inner join, left join, and right join in SQL?",
+        "How would you explain a complex data trend to a non-technical stakeholder?",
+        "Can you describe a time when you used data analysis to solve a business problem?",
+        "What are the key differences between Tableau and Power BI?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Data Analysis with Python",
+          "provider": "Coursera",
+          "description": "Covers data wrangling, visualization, and analysis using Python."
+        },
+        {
+          "name": "SQL for Data Analysis",
+          "provider": "Udacity",
+          "description": "Teaches SQL for querying and analyzing data in databases."
+        },
+        {
+          "name": "Storytelling with Data",
+          "provider": "Cole Nussbaumer Knaflic",
+          "description": "A book on effective data visualization and storytelling."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cloud Architect",
+      "description": "A Cloud Architect designs and manages cloud computing strategies for organizations. They ensure cloud infrastructure is scalable, secure, and cost-efficient while meeting business requirements.",
+      "skills": [
+        "Cloud platforms (AWS, Azure, Google Cloud)",
+        "Infrastructure as Code (Terraform, CloudFormation)",
+        "Networking and security best practices",
+        "Containerization (Docker, Kubernetes)",
+        "Serverless computing",
+        "Hybrid and multi-cloud architecture",
+        "Monitoring and automation tools",
+        "Cost optimization strategies",
+        "Data storage and database management",
+        "Disaster recovery and high availability planning"
+      ],
+      "responsibilities": [
+        "Design and implement cloud architectures that meet business needs.",
+        "Ensure cloud environments are secure and compliant.",
+        "Optimize cloud resources to improve performance and cost efficiency.",
+        "Manage cloud migration and modernization projects.",
+        "Collaborate with development and IT teams to deploy scalable applications.",
+        "Implement disaster recovery and high availability strategies.",
+        "Monitor cloud performance and troubleshoot issues.",
+        "Advise organizations on cloud adoption strategies.",
+        "Stay updated with emerging cloud technologies.",
+        "Ensure compliance with data protection regulations."
+      ],
+      "salaryRange": "$120,000 - $180,000 per year",
+      "examples": [
+        "Migrating an on-premises data center to AWS Cloud.",
+        "Implementing a multi-cloud strategy using Azure and GCP.",
+        "Designing a Kubernetes-based microservices architecture.",
+        "Developing a serverless application using AWS Lambda."
+      ],
+      "careerProgression": [
+        {
+          "level": "Cloud Engineer",
+          "responsibilities": [
+            "Assist in cloud infrastructure setup.",
+            "Manage cloud-based applications and services.",
+            "Implement security measures in cloud environments."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Cloud Architect",
+          "responsibilities": [
+            "Design scalable and secure cloud solutions.",
+            "Manage cloud infrastructure performance and cost optimization.",
+            "Lead cloud migration and transformation projects."
+          ],
+          "salaryRange": "$120,000 - $150,000 per year"
+        },
+        {
+          "level": "Senior Cloud Architect",
+          "responsibilities": [
+            "Develop multi-cloud and hybrid cloud strategies.",
+            "Advise businesses on advanced cloud implementations.",
+            "Lead enterprise cloud transformation initiatives."
+          ],
+          "salaryRange": "$150,000 - $180,000 per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Solutions Architect – Professional",
+          "provider": "Amazon Web Services",
+          "description": "Covers advanced cloud architecture and deployment strategies."
+        },
+        {
+          "name": "Google Professional Cloud Architect",
+          "provider": "Google Cloud",
+          "description": "Focuses on designing scalable and secure cloud solutions."
+        },
+        {
+          "name": "Microsoft Certified: Azure Solutions Architect Expert",
+          "provider": "Microsoft",
+          "description": "Validates expertise in Azure cloud architecture."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "AWS CloudFormation",
+          "description": "Infrastructure as Code tool for automating AWS deployments."
+        },
+        {
+          "name": "Terraform",
+          "description": "An open-source tool for automating cloud infrastructure."
+        },
+        {
+          "name": "Kubernetes",
+          "description": "Container orchestration platform for managing cloud-native applications."
+        },
+        {
+          "name": "Azure DevOps",
+          "description": "A cloud service for managing development projects."
+        },
+        {
+          "name": "Google Cloud BigQuery",
+          "description": "A fully managed data warehouse for cloud analytics."
+        }
+      ],
+      "futureScope": [
+        "Increased adoption of multi-cloud strategies.",
+        "Growing demand for cloud-native application development.",
+        "Expansion of edge computing and hybrid cloud solutions.",
+        "Greater focus on security and compliance in cloud computing."
+      ],
+      "challenges": [
+        "Managing cloud security and compliance risks.",
+        "Optimizing cloud costs and avoiding vendor lock-in.",
+        "Ensuring high availability and disaster recovery.",
+        "Keeping up with evolving cloud technologies."
+      ],
+      "commonInterviewQuestions": [
+        "How do you design a scalable cloud architecture?",
+        "What are the benefits and challenges of a multi-cloud strategy?",
+        "How do you ensure security in a cloud environment?",
+        "What tools do you use for Infrastructure as Code?",
+        "How do you optimize cloud costs in AWS/Azure/GCP?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Architecting on AWS",
+          "provider": "AWS Training",
+          "description": "Comprehensive training on AWS architecture best practices."
+        },
+        {
+          "name": "Google Cloud Architect Learning Path",
+          "provider": "Google Cloud",
+          "description": "Covers key concepts in designing cloud applications."
+        },
+        {
+          "name": "Azure Architecture Center",
+          "provider": "Microsoft",
+          "description": "Guides on best practices for Azure cloud architecture."
+        }
+      ]
     }
-    
   ]
 }

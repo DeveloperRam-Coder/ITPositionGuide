@@ -53,7 +53,7 @@ export default function Home() {
     {
       title: "QA Engineer",
       description: "Ensure software quality through testing",
-      link: "/qa-engineer",
+      link: "/pages/qa-engineer",
     },
     {
       title: "DevOps Engineer",
